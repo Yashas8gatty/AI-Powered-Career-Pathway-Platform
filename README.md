@@ -36,4 +36,10 @@ It helps students seamlessly progress from **certifications → internships → 
 - frontend/ → Student dashboard, employer portal
 - backend/ → APIs for resume parsing, job matching
 - models/ → NLP scripts, embeddings
-- docs/ → Diagrams, pitch deck
+  
+## 👥 Team
+- Yashas H Gatty
+- Sujan Kumar Shetty
+- Uttham Poojary
+- Rakshith Kulal
+  
